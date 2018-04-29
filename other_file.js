@@ -1,2 +1,2 @@
 var index = require("./index.js")
-doumnet.querySelector(name)
+console.print(name)
