@@ -1,3 +1,3 @@
 var index = require("./index.js")
 
-console.log(/index.js.name)
+console.log(cd/index.js.name)
